@@ -1,6 +1,6 @@
 # todoapp
 
-A new Flutter project.
+A new Flutter project.This project is a simple todo app that performs all the CRUD operations.It is built using Provider state management tool.
 
 ## Getting Started
 
